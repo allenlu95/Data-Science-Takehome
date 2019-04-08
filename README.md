@@ -1,4 +1,4 @@
-# Data-Science-Takehome
+# Zoox-Data-Science-Takehome
 In this exercise, please explore the included (small) data files and provide a basic analysis you
 would share with another data scientist in a Rmarkdown notebook or a Jupyter notebook. After
 your analysis you should be equipped to provide a summary to a business stakeholder
